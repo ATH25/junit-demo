@@ -12,7 +12,5 @@ public class MyMath {
 		return sum;
 		}
 			
-		
-		 
 
 }
